@@ -13,7 +13,7 @@ Analyzed 7,043 telecom customer records using Excel to identify the primary driv
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Findings
 
@@ -26,5 +26,5 @@ Analyzed 7,043 telecom customer records using Excel to identify the primary driv
 
 * Telecom Churn Analysis.xlsx
 * Telecom Customer Churn Report.pdf
-* Dashboard.png
+
 
