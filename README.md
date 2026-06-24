@@ -13,7 +13,7 @@ Analyzed 7,043 telecom customer records using Excel to identify the primary driv
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.PNG)
 
 ## Key Findings
 
